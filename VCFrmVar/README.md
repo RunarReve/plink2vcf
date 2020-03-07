@@ -13,9 +13,9 @@ Output:
 
 ## Remove List Format
 <pre>
-CHR Start\_Var End\_Var
+CHR   Start\_Var    End\_Var
 
-1 2000 3000
+1     2000          3000
 </pre>
 
 Everything should be sorted, first by CHR, then Start\_Var
