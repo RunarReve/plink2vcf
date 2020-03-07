@@ -12,7 +12,8 @@ Output:
   ${3}del - The sections that has been removed from main file 
 
 ## Remove List Format
-CHR	Start\_Var	End\_Var\n
+CHR	Start\_Var	End\_Var
+
 1	2000		3000
 
 Everything should be sorted, first by CHR, then Start\_Var
