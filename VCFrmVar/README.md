@@ -12,9 +12,11 @@ Output:
   ${3}del - The sections that has been removed from main file 
 
 ## Remove List Format
-CHR\tStart\_Var\tEnd\_Var
+<pre>
+CHR Start\_Var End\_Var
 
-1\t2000\t3000
+1 2000 3000
+</pre>
 
 Everything should be sorted, first by CHR, then Start\_Var
 In the dummy example above, all variants between 2000 and 3000 will be removed from main list
